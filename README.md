@@ -42,3 +42,11 @@ Feel free to modify the width, height, and whether color is enabled by adjusting
 Enjoy experimenting with different images and settings!
 
 ---
+## **Explore More**
+
+To explore more **Tender** projects and get access to additional code examples, visit the following repository:
+
+[1000+ Codes in Tender](https://github.com/IHEfty/1000-Codes-in-Tender/)
+
+This repository contains a rich collection of Tender-based code samples, ranging from simple applications to complex utilities, allowing you to enhance your understanding of **Tender** and its capabilities.
+
